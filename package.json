@@ -1,0 +1,13 @@
+{
+  "name": "noesis-cyclic-token-sale",
+  "version": "0.1.0",
+  "private": true,
+  "engines": {
+    "node": ">=22 <23"
+  },
+  "workspaces": [
+    "contracts",
+    "bot",
+    "frontend"
+  ]
+}
