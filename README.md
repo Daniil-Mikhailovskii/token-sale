@@ -1,4 +1,6 @@
-# NOESIS Cyclic Token Sale
+# token-sale
+
+## NOESIS Cyclic Token Sale
 
 Educational web3 project for an endlessly cycling token sale on Ethereum Sepolia. NOE and mUSDC are testnet-only tokens with no monetary value.
 
